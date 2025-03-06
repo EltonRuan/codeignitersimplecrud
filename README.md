@@ -22,7 +22,7 @@ This project is a simple Post Management System built using PHP with the CodeIgn
 
 1. Clone the repository to your local machine.
    ```bash
-   git clone https://github.com/codeignitersimplecrud.git
+   git clone https://github.com/EltonRuan/codeignitersimplecrud
    ```
 
 2. Navigate to the project directory.
