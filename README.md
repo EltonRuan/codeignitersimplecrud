@@ -1,5 +1,5 @@
 <div align='center'>
- <img style="width:100%" src="https://capsule-render.vercel.app/api?type=soft&height=200&color=FFFFFF&text=Codeigniter%20Simple%20CRUD&fontSize=50&fontAlign=50&strokeWidth=0&descAlignY=80&stroke=000000">
+ <img style="width:100%" src="https://capsule-render.vercel.app/api?type=soft&height=200&color=FFFFFF&text=Codeigniter%20Simple%20CRUD&fontSize=50&fontAlign=50&strokeWidth=0&descAlignY=80">
 </div>
 
 # CodeIgniter Simples CRUD
