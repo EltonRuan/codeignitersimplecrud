@@ -2,6 +2,18 @@
  <img style="width:100%" src="https://capsule-render.vercel.app/api?type=soft&height=200&color=FFFFFF&text=Codeigniter%20Simple%20CRUD&fontSize=50&fontAlign=50&strokeWidth=0&descAlignY=80&stroke=000000">
 </div>
 
+<nav align="center">
+  <h2>🔗 NAVIGATION </h2>
+  <p>
+    <a href="#about-codeigniter">About CodeIgniter</a> |
+    <a href="#about-this-project">About This Project</a> |
+    <a href="#features">Features</a> |
+    <a href="#setup">Setup</a> |
+    <a href="#code-explanation">Code Explanation</a> |
+    <a href="#final-considerations">Final Considerations</a>
+  </p>
+</nav>
+
 <h2>ABOUT CODEIGNITER</h2>
 <p>CodeIgniter is a powerful PHP framework designed for developers who need a simple and elegant toolkit to build full-featured web applications. Known for its speed and small footprint, CodeIgniter provides a rich set of libraries and helpers for common tasks, making development faster and more efficient.</p>
 <img src="https://skillicons.dev/icons?i=php,&perline=20" />
