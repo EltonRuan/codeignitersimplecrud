@@ -2,9 +2,9 @@
  <img style="width:100%" src="https://capsule-render.vercel.app/api?type=soft&height=200&color=FFFFFF&text=Codeigniter%20Simple%20CRUD&fontSize=50&fontAlign=50&strokeWidth=0&descAlignY=80&stroke=000000">
 </div>
 
-# CodeIgniter Simples CRUD
-
-This project is a simple Post Management System built using PHP with the CodeIgniter framework. It allows users to perform various CRUD (Create, Read, Update, Delete) operations on posts.
+<h2>ABOUT CODEIGNITER</h2>
+<p>CodeIgniter is a powerful PHP framework designed for developers who need a simple and elegant toolkit to build full-featured web applications. Known for its speed and small footprint, CodeIgniter provides a rich set of libraries and helpers for common tasks, making development faster and more efficient.</p>
+<img src="https://skillicons.dev/icons?i=php,&perline=20" />
 
 ## Features
 
