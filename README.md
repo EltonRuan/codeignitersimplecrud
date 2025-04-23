@@ -135,10 +135,14 @@ The views in this project are simple HTML pages with embedded PHP for dynamic co
 - All forms require the user to input both a title and content. If any of these fields are missing, an error message will be displayed.
 - Success and error messages are displayed using CodeIgniter's session flashdata functionality.
 
-## Contributing
+<h2>Final Considerations</h2>
+<p>This CodeIgniter project was developed as a personal learning exercise and a resource to help other developers understand how a PHP MVC framework can be used to build functional and structured web applications.</p>
+<p>The goal was to implement core CRUD features using clean code, following the MVC architecture principles, while also integrating good development practices like version control and modularization.</p>
+<p>Feel free to explore, modify, and expand this project. Whether you're using it to learn, to prototype something new, or as a foundation for a bigger idea, I hope it brings value to your development journey.</p>
+<p>Stay curious, keep experimenting, and continue building — that's how great developers grow!</p>
+<br><br>
+<p><strong>© 2025 EltonRuan. All rights reserved.</strong></p>
 
-Feel free to fork the repository and contribute to it by opening pull requests. If you encounter any bugs or have suggestions for improvements, please create an issue.
-
-### Copyright
-
-© 2025 EltonRuan. All rights reserved.
+<footer align="center">
+ <img style="width:100%" src="https://capsule-render.vercel.app/api?type=soft&height=20&color=FFFFFF&fontSize=50&fontAlign=50&strokeWidth=0&descAlignY=80&stroke=000000&reversal=false&section=footer">
+</footer>
