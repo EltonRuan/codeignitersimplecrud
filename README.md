@@ -5,12 +5,12 @@
 <nav align="center">
   <h2>🔗 NAVIGATION </h2>
   <p>
-    <a href="#about-codeigniter">About CodeIgniter</a> |
-    <a href="#about-this-project">About This Project</a> |
-    <a href="#features">Features</a> |
-    <a href="#setup">Setup</a> |
-    <a href="#code-explanation">Code Explanation</a> |
-    <a href="#final-considerations">Final Considerations</a>
+   <a href="#about-codeigniter">ABOUT CODEIGNITER</a> |
+   <a href="#about-this-project">ABOUT THIS PROJECT</a> |
+   <a href="#features">FEATURES</a> |
+   <a href="#setup">SETUP</a> |
+   <a href="#code-explanation">CODE EXPLANATION</a> |
+   <a href="#final-considerations">FINAL CONSIDERATIONS</a>
   </p>
 </nav>
 
