@@ -6,6 +6,12 @@
 <p>CodeIgniter is a powerful PHP framework designed for developers who need a simple and elegant toolkit to build full-featured web applications. Known for its speed and small footprint, CodeIgniter provides a rich set of libraries and helpers for common tasks, making development faster and more efficient.</p>
 <img src="https://skillicons.dev/icons?i=php,&perline=20" />
 
+## About This Project
+
+This project is a simple blog system built using CodeIgniter, designed to demonstrate CRUD (Create, Read, Update, Delete) operations in a clean and easy-to-understand way. It serves as a learning resource for developers who want to understand the basics of how MVC frameworks work, how to interact with databases, and how to manage routes and views efficiently using CodeIgniter.
+
+The goal is to provide a solid foundation for beginners, or a quick-start template for those who want to expand it into something bigger.
+
 ## Features
 
 - **Create a Post**: Allows users to create new posts by providing a title and content.
